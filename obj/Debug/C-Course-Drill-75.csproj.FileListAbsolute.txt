@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\C-Course-Drill-75\C-Course-Drill-75\bin\Debug\C-Course-Drill-75.exe.config
+C:\Users\Student\source\repos\C-Course-Drill-75\C-Course-Drill-75\bin\Debug\C-Course-Drill-75.exe
+C:\Users\Student\source\repos\C-Course-Drill-75\C-Course-Drill-75\bin\Debug\C-Course-Drill-75.pdb
+C:\Users\Student\source\repos\C-Course-Drill-75\C-Course-Drill-75\obj\Debug\C-Course-Drill-75.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\C-Course-Drill-75\C-Course-Drill-75\obj\Debug\C-Course-Drill-75.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\C-Course-Drill-75\C-Course-Drill-75\obj\Debug\C-Course-Drill-75.exe
+C:\Users\Student\source\repos\C-Course-Drill-75\C-Course-Drill-75\obj\Debug\C-Course-Drill-75.pdb
